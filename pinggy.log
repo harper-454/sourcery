@@ -1,0 +1,9 @@
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+** WARNING: connection is not using a post-quantum key exchange algorithm.
+** This session may be vulnerable to "store now, decrypt later" attacks.
+** The server may need to be upgraded. See https://openssh.com/pq.html
+Allocated port 8 for remote forward to localhost:5173
+You are not authenticated.
+Your tunnel will expire in 60 minutes. Upgrade to Pinggy Pro to get unrestricted tunnels. https://dashboard.pinggy.io
+http://dfoxd-2601-602-67f-a1c0-3c8e-5e5d-d1de-9f02.run.pinggy-free.link
+https://dfoxd-2601-602-67f-a1c0-3c8e-5e5d-d1de-9f02.run.pinggy-free.link

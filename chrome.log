@@ -1,0 +1,44 @@
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/5fa14982-d527-486f-a4ca-e32fde6c30ad
+Created TensorFlow Lite XNNPACK delegate for CPU.
+Trying to load the allocator multiple times. This is *not* supported.
+[78152:583733:0527/154554.206977:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[78226:584448:0527/154607.510193:VERBOSE1:chrome/updater/updater.cc:352] Version: 149.0.7814.0, opt, ARM_64, command line: /Users/alexharper/Library/Application Support/Google/GoogleUpdater/149.0.7814.0/GoogleUpdater.app/Contents/MacOS/GoogleUpdater --wake-all --enable-logging --vmodule=*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2
+[78226:584448:0527/154607.510530:VERBOSE1:chrome/updater/updater.cc:355] OS version: 26.5.0, arch: arm64, System uptime (seconds): 26847, parent pid: 78152
+[78226:584448:0527/154607.513634:VERBOSE2:chrome/updater/event_history.cc:265] Emitted a UPDATER_PROCESS START event to the history log
+[78228:584452:0527/154607.524000:VERBOSE1:chrome/updater/updater.cc:352] Version: 149.0.7814.0, opt, ARM_64, command line: /Users/alexharper/Library/Application Support/Google/GoogleUpdater/149.0.7814.0/GoogleUpdater.app/Contents/MacOS/GoogleUpdater --crash-handler --database=/Users/alexharper/Library/Application Support/Google/GoogleUpdater/149.0.7814.0/Crashpad --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=149.0.7814.0 --handshake-fd=6 --enable-logging --vmodule=*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2
+[78228:584452:0527/154607.524231:VERBOSE1:chrome/updater/updater.cc:355] OS version: 26.5.0, arch: arm64, System uptime (seconds): 26847, parent pid: 1
+[78228:584452:0527/154607.526638:VERBOSE2:chrome/updater/event_history.cc:265] Emitted a UPDATER_PROCESS START event to the history log
+[78226:584448:0527/154607.527190:VERBOSE1:chrome/updater/crash_reporter.cc:124] Crash handler launched and ready.
+[78226:584448:0527/154607.527922:VERBOSE1:chrome/updater/crash_client.cc:108] Found 0 completed crash reports
+[78226:584448:0527/154607.527999:VERBOSE1:chrome/updater/crash_client.cc:132] Found 0 pending crash reports
+[78226:584448:0527/154607.528069:ERROR:third_party/crashpad/crashpad/util/file/file_io_posix.cc:145] open /Users/alexharper/Library/Application Support/Google/RLZ/Crashpad/settings.dat: No such file or directory (2)
+[78226:584448:0527/154607.528081:ERROR:third_party/crashpad/crashpad/util/file/file_io_posix.cc:145] open /Users/alexharper/Library/Application Support/Google/RemoteConfig/Crashpad/settings.dat: No such file or directory (2)
+[78226:584448:0527/154607.528127:VERBOSE1:chrome/updater/updater.cc:103] Crash reporting initialized.
+[78226:584460:0527/154607.528492:VERBOSE1:chrome/updater/app/app_wakeall.cc:58] Launching `/Users/alexharper/Library/Application Support/Google/GoogleUpdater/149.0.7814.0/GoogleUpdater.app/Contents/MacOS/GoogleUpdater --wake`
+[78229:584464:0527/154607.537110:VERBOSE1:chrome/updater/updater.cc:352] Version: 149.0.7814.0, opt, ARM_64, command line: /Users/alexharper/Library/Application Support/Google/GoogleUpdater/149.0.7814.0/GoogleUpdater.app/Contents/MacOS/GoogleUpdater --wake --enable-logging --vmodule=*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2
+[78229:584464:0527/154607.537338:VERBOSE1:chrome/updater/updater.cc:355] OS version: 26.5.0, arch: arm64, System uptime (seconds): 26847, parent pid: 78226
+[78229:584464:0527/154607.540070:VERBOSE2:chrome/updater/event_history.cc:265] Emitted a UPDATER_PROCESS START event to the history log
+[78231:584470:0527/154607.548973:VERBOSE1:chrome/updater/updater.cc:352] Version: 149.0.7814.0, opt, ARM_64, command line: /Users/alexharper/Library/Application Support/Google/GoogleUpdater/149.0.7814.0/GoogleUpdater.app/Contents/MacOS/GoogleUpdater --crash-handler --database=/Users/alexharper/Library/Application Support/Google/GoogleUpdater/149.0.7814.0/Crashpad --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=149.0.7814.0 --handshake-fd=6 --enable-logging --vmodule=*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2
+[78231:584470:0527/154607.549216:VERBOSE1:chrome/updater/updater.cc:355] OS version: 26.5.0, arch: arm64, System uptime (seconds): 26847, parent pid: 1
+[78231:584470:0527/154607.551589:VERBOSE2:chrome/updater/event_history.cc:265] Emitted a UPDATER_PROCESS START event to the history log
+[78229:584464:0527/154607.552129:VERBOSE1:chrome/updater/crash_reporter.cc:124] Crash handler launched and ready.
+[78229:584464:0527/154607.552763:VERBOSE1:chrome/updater/crash_client.cc:108] Found 0 completed crash reports
+[78229:584464:0527/154607.552843:VERBOSE1:chrome/updater/crash_client.cc:132] Found 0 pending crash reports
+[78229:584464:0527/154607.552913:ERROR:third_party/crashpad/crashpad/util/file/file_io_posix.cc:145] open /Users/alexharper/Library/Application Support/Google/RLZ/Crashpad/settings.dat: No such file or directory (2)
+[78229:584464:0527/154607.552927:ERROR:third_party/crashpad/crashpad/util/file/file_io_posix.cc:145] open /Users/alexharper/Library/Application Support/Google/RemoteConfig/Crashpad/settings.dat: No such file or directory (2)
+[78229:584464:0527/154607.552969:VERBOSE1:chrome/updater/updater.cc:103] Crash reporting initialized.
+[78229:584464:0527/154607.553129:VERBOSE1:chrome/updater/ipc/update_service_internal_proxy_mojo.cc:61] Run
+[78152:583733:0527/154616.545038:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[78229:584464:0527/154625.181793:VERBOSE1:chrome/updater/app/app.cc:52] Shutdown: 0
+[78229:584464:0527/154625.182161:VERBOSE2:chrome/updater/event_history.cc:265] Emitted a UPDATER_PROCESS END event to the history log
+[78229:584464:0527/154625.182184:VERBOSE1:chrome/updater/updater.cc:390] UpdaterMain (--wake) returned 0.
+[78226:584460:0527/154625.415853:VERBOSE1:chrome/updater/app/app_wakeall.cc:68] `/Users/alexharper/Library/Application Support/Google/GoogleUpdater/149.0.7814.0/GoogleUpdater.app/Contents/MacOS/GoogleUpdater --wake` exited 0
+[78226:584448:0527/154625.416273:VERBOSE1:chrome/updater/app/app.cc:52] Shutdown: 0
+[78226:584448:0527/154625.417108:VERBOSE2:chrome/updater/event_history.cc:265] Emitted a UPDATER_PROCESS END event to the history log
+[78226:584448:0527/154625.417166:VERBOSE1:chrome/updater/updater.cc:390] UpdaterMain (--wake-all) returned 0.
+[78231:584470:0527/154635.191409:VERBOSE2:chrome/updater/event_history.cc:265] Emitted a UPDATER_PROCESS END event to the history log
+[78231:584470:0527/154635.191440:VERBOSE1:chrome/updater/updater.cc:390] UpdaterMain (--crash-handler) returned 0.
+[78228:584452:0527/154635.192645:VERBOSE2:chrome/updater/event_history.cc:265] Emitted a UPDATER_PROCESS END event to the history log
+[78228:584452:0527/154635.193010:VERBOSE1:chrome/updater/updater.cc:390] UpdaterMain (--crash-handler) returned 0.

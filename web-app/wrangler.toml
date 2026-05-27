@@ -1,0 +1,12 @@
+# web-app/wrangler.toml
+# Production Cloudflare Pages Deployment Configuration for Sourcery
+
+name = "sourcery"
+pages_build_output_dir = "./dist"
+
+compatibility_date = "2026-05-27"
+
+[vars]
+# You can define global environment variables for your Edge Functions here
+ENVIRONMENT = "production"
+DEFAULT_ROOM = "demo-room"
