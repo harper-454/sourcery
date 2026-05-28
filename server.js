@@ -101,6 +101,12 @@ wss.on('connection', (ws, req) => {
         const msg = JSON.parse(message.toString());
         if (msg.type === 'ping') {
           ws.send(JSON.stringify({ type: 'pong' }));
+        } else {
+          // Relay messages from client back to the host (e.g. client_connected, heartbeats)
+          const currentRoom = rooms.get(room);
+          if (currentRoom && currentRoom.host && currentRoom.host.readyState === 1) {
+            currentRoom.host.send(message.toString());
+          }
         }
       } catch (e) {}
     });
