@@ -280,7 +280,7 @@ class ServicesManager: ObservableObject {
                 let hostname = fullUrl.replacingOccurrences(of: "https://", with: "")
                 self.tunnelParsed = true
                 
-                let compiledShareUrl = "https://fdb91493.sourcery-dbl.pages.dev/?room=\(self.roomCode)"
+                let compiledShareUrl = "https://sourcery-dbl.pages.dev/?room=\(self.roomCode)"
                 let wssHostname = "wss://\(hostname)/stream"
                 
                 self.tunnelHostname = hostname
